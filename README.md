@@ -44,7 +44,7 @@ A secure REST API built with Node.js, Express.js, and Axios, providing a simple 
 
 ```bash
 - npm install
-- Set the Bearer Token: you'll need a Bearer token to authenticate with the API.
+- Set the Bearer Token: you\'ll need a Bearer token to authenticate with the API.
 ```
 
 3. **Start the development server:**
@@ -59,6 +59,7 @@ nodemon index.js
 
 ## 🗂️ Project Structure
 
+```
 rest-apis/
 ├── views/ # EJS views
 │ └── index.ejs # Main page for interacting with the API
@@ -68,6 +69,7 @@ rest-apis/
 ├── LICENSE # License file
 ├── screenshot-git.PNG # (Optional) screenshot for README
 └── README.md # This file
+```
 
 ## 💡 How It Works
 
